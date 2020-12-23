@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoDemo</string>
+    <string name="user1">username:</string>
+    <string name="psw1">password:</string>
+    <string name="user">用户</string>
+    <string name="to_use">To Use</string>
+    <string name="welcome">Welcome</string>
+    <string name="psw">密码</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="user_hint">Account cannot be empty</string>
+    <string name="psw_hint">Password cannot be empty</string>
+    <string name="username_hint">Account</string>
+    <string name="psw1_hint">Password</string>
+    <string name="tv_Following">Following</string>
+</resources>
